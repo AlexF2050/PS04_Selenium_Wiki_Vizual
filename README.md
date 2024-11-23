@@ -4,4 +4,4 @@
 
 [DZ_PS04_Wiki_console.py](DZ_PS04_Wiki_console.py)
 
-![DOM and JS.png](DOM and JS.png)
+![DOM_JS.png](DOM_JS.png)
